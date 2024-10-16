@@ -1,3 +1,8 @@
+<p align="center">
+  <img alt="Termux games dclxviclan" src="https://github.com/vo6i/Appointment-Telegram-Bot/blob/main/Screenshot_20241004-051546_1.jpg" />
+</p>
+
+
 # termux-game
 Install and play games by dclxviclan studio inside Termux terminal 
 
